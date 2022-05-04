@@ -4,15 +4,16 @@
 
 CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCMUFmGq_JhaxhC/view
 
-> 注1：欢迎各位大佬提交issue，分享CVPR 2022论文和开源项目！
+> 注1：这是Henry Sun的学习文库，欢迎分享CVPR 2022论文和开源项目！
 >
 > 注2：关于往年CV顶会论文以及其他优质CV论文和大盘点，详见： https://github.com/amusi/daily-paper-computer-vision
 >
+> - [CVPR 2018](CVPR2018-Papers-with-Code.md)
 > - [CVPR 2019](CVPR2019-Papers-with-Code.md)
 > - [CVPR 2020](CVPR2020-Papers-with-Code.md)
 > - [CVPR 2021](CVPR2021-Papers-with-Code.md)
 
-如果你想了解最新最优质的的CV论文、开源项目和学习资料，欢迎扫码加入【CVer学术交流群】！互相学习，一起进步~ 
+这里有最新最优质的的CV论文、开源项目和学习资料，欢迎扫码加入【CVer学术交流群】！互相学习，一起进步~ 
 
 ![](CVer学术交流群.png)
 
